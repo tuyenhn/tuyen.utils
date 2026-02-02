@@ -1,0 +1,10 @@
+Package: tuyen.utils
+Title: Utility functions in R, made by Tuyen for Tuyen (and everyone else).
+Version: 0.0.0.9000
+Authors@R: 
+    person("Tuyen", "Huynh", , "hntuyen282@gmail.com", role = c("aut", "cre"))
+Description: Utility functions in R, made by Tuyen for Tuyen (and everyone else).
+License: file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.3
